@@ -1,0 +1,89 @@
+{
+    "addFavor": {
+        "success": "true",
+        "msg": ""
+    },
+    "delFavor": {
+        "success": "true",
+        "msg": ""
+    },
+    "getFavoriteList": [
+        {
+            "title": "美宝莲好气色轻唇膏 持久润泽唇彩 滋润保湿唇膏口红 彩妆专柜正品",
+            "stock_count": 2367,
+            "sales": 418,
+            "og_price": "69.0-69.0",
+            "favor": "true",
+            "uuid": "3Nx9550oI3",
+            "cur_price": "63.0-63.0",
+            "pic_url": "http://img02.taobaocdn.com/bao/uploaded/i2/TB11I.NGXXXXXXeXFXXXXXXXXXX_!!0-item_pic.jpg",
+            "discount": "9.1"
+        },
+        {
+            "title": "蜜丝佛陀玩色迷你指甲油 糖果色 专柜正品",
+            "stock_count": 12,
+            "sales": 447,
+            "og_price": "38.0-38.0",
+            "favor": "true",
+            "uuid": "078Nc64O7A",
+            "cur_price": "33.0-33.0",
+            "pic_url": "http://img01.taobaocdn.com/bao/uploaded/i1/TB1QEqQGXXXXXbfXFXXXXXXXXXX_!!0-item_pic.jpg",
+            "discount": "8.6"
+        },
+        {
+            "title": "Max Factor蜜丝佛陀亮泽胭脂5.5g腮红 修 彩妆化妆品专柜正品",
+            "stock_count": 15,
+            "sales": 407,
+            "og_price": "68.0-68.0",
+            "favor": "true",
+            "uuid": "23gz80Q1OW",
+            "cur_price": "55.0-55.0",
+            "pic_url": "http://img03.taobaocdn.com/bao/uploaded/i3/T1CoXlFyxsXXXXXXXX_!!0-item_pic.jpg",
+            "discount": "8.0"
+        },
+        {
+            "title": "妮维雅 男士活力劲肤水125ml 瞬间补水 肌肤活力四射 正品保证",
+            "stock_count": 3,
+            "sales": 238,
+            "og_price": "99.0-99.0",
+            "favor": "true",
+            "uuid": "E565vf8E5f",
+            "cur_price": "75.0-75.0",
+            "pic_url": "http://img03.taobaocdn.com/bao/uploaded/i3/TB1kbPnGpXXXXahXpXXXXXXXXXX_!!0-item_pic.jpg",
+            "discount": "7.5"
+        },
+        {
+            "title": "SEKKISEI 雪肌精化妆水 200ml／360ml  正品保证",
+            "stock_count": 38,
+            "sales": 233,
+            "og_price": "380.0-560.0",
+            "favor": "true",
+            "uuid": "Z5r1Rs044f",
+            "cur_price": "361.0-532.0",
+            "pic_url": "http://121.40.209.34/productImg/4M3731415346737725.jpg",
+            "discount": "9.4"
+        },
+        {
+            "title": "SEKKISEI 雪肌精美白BB霜 30g SPF30+ PA+++ 遮瑕 防晒 正品保证",
+            "stock_count": 10,
+            "sales": 409,
+            "og_price": "190.0-190.0",
+            "favor": "true",
+            "uuid": "kH1777f8p0",
+            "cur_price": "180.0-180.0",
+            "pic_url": "http://img02.taobaocdn.com/bao/uploaded/i2/TB1AtQDGXXXXXb7XpXXXXXXXXXX_!!0-item_pic.jpg",
+            "discount": "9.4"
+        },
+        {
+            "title": "SEKKISEI 雪肌精水敷容纸膜14粒装3包 5包 压缩面膜 正品保证",
+            "stock_count": 12,
+            "sales": 284,
+            "og_price": "30.0-30.0",
+            "favor": "true",
+            "uuid": "IJ45014z98",
+            "cur_price": "28.0-28.0",
+            "pic_url": "http://img04.taobaocdn.com/bao/uploaded/i4/TB13TLGGpXXXXb5XFXXXXXXXXXX_!!0-item_pic.jpg",
+            "discount": "9.3"
+        }
+    ]
+}

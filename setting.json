@@ -1,0 +1,19 @@
+{
+    "globalAPIParams":{
+        "host_port": "http://127.0.0.1:8888",
+        "path": "/AppServer/app/inter",
+        "https_host_port": "https://127.0.0.1:8443",
+        "path_h5": "/AppServer/h5/inter",
+        "appKey": "6581235709",
+        "token":"tbgV91FCJ11J9193F7C20i77FPw6iTC86IMs3vEpn38Ks77fcY6007996q3kk90E",
+        "appVer":"1.0"
+    },
+
+    "wxParams":{
+        "appId":"",
+        "appSecret":"",
+        "mchid":"",
+        "partnerKey":"",
+        "notify_url":"http://127.0.0.1/weixin/notify"
+    }
+}

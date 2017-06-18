@@ -1,0 +1,15 @@
+<!-- 页头 -->
+<header id="header" class="header">	
+	<!-- 个人中心 -->
+	<div class="user_center"></div>
+	<!-- 搜索 -->
+	<div class="search">
+        <% if (typeof searchStr !== 'undefined') { %>
+        <input id="search_input" class="search_input" type="text" name="search" placeholder="搜索您想要的宝贝！" value="<%= searchStr %>"/>
+        <% }else{ %>
+        <input id="search_input" class="search_input" type="text" name="search" placeholder="搜索您想要的宝贝！"/>
+        <% } %>
+	</div>
+	<!-- 顶部热门banner -->
+	<div id="search_btn" class="search_btn">搜索</div>
+</header>

@@ -1,0 +1,125 @@
+{
+    "getProductInfoData": {
+        "click_count": 0,
+        "icat_name": "唇膏口红",
+        "member_price": "69.0-69.0",
+        "og_price": "69.0-69.0",
+        "prop": "上市时间:2014年,月份:7月,净含量:3g,颜色分类:咖啡色 浅黄色 紫色 粉色 军绿色 深卡其布色 透明 桔色 桃红色 天蓝色,规格类型:正常规格,品牌:Maybelline/美宝莲,Maybelline/美宝莲单品:好气色轻唇膏,功效:滋润 保湿,产地:中国,适合肤质:任何肤质,保质期:3年",
+        "brand_uuid": "16B3435E78",
+        "brand_name": "美宝莲",
+        "pic_url": "http://img02.taobaocdn.com/bao/uploaded/i2/TB11I.NGXXXXXXeXFXXXXXXXXXX_!!0-item_pic.jpg,http://img01.taobaocdn.com/bao/uploaded/i1/743750137/TB2JwKaapXXXXakXpXXXXXXXXXX_!!743750137.jpg,http://img01.taobaocdn.com/bao/uploaded/i1/743750137/TB2fcSgapXXXXbHXXXXXXXXXXXX_!!743750137.jpg,http://img03.taobaocdn.com/bao/uploaded/i3/743750137/TB2603jaXXXXXcdXXXXXXXXXXXX_!!743750137.jpg,http://img02.taobaocdn.com/bao/uploaded/i2/743750137/TB2mX4faFXXXXarXpXXXXXXXXXX_!!743750137.jpg",
+        "discount": "9.1",
+        "title": "美宝莲好气色轻唇膏 持久润泽唇彩 滋润保湿唇膏口红 彩妆专柜正品",
+        "stock_count": 146,
+        "skuinfo": {
+            "pvs": [
+                {
+                    "name": "颜色分类",
+                    "pid": "1627207",
+                    "vals": [
+                        {
+                            "name": "06热情摩卡",
+                            "pid": "1627207",
+                            "vid": "28332"
+                        },
+                        {
+                            "name": "03清透蜜橘",
+                            "pid": "1627207",
+                            "vid": "3232484"
+                        }
+                    ]
+                }
+            ],
+            "skumap": [
+                {
+                    "point": "63",
+                    "stock": "50",
+                    "price": "63.0",
+                    "outer_id": "P0100865",
+                    "uuid": "34BV0IaFe6",
+                    "skuid": "72961092602",
+                    "pic_url": "http://img01.taobaocdn.com/bao/uploaded/i1/743750137/TB2vcPCXVXXXXXrXpXXXXXXXXXX_!!743750137.jpg"
+                },
+                {
+                    "point": "63",
+                    "stock": "96",
+                    "price": "63.0",
+                    "outer_id": "P0100873",
+                    "uuid": "67Hrzf7255",
+                    "skuid": "72961092610",
+                    "pic_url": "http://img02.taobaocdn.com/bao/uploaded/i2/743750137/TB2v3fCXVXXXXa2XXXXXXXXXXXX_!!743750137.jpg"
+                }
+            ],
+            "pvmap": {
+                "72961092610": "1627207:3232484",
+                "72961092602": "1627207:28332"
+            }
+        },
+        "sales": 418,
+        "item_id": "AAG1-ScZABkhHVvWCkFvuVCj",
+        "icat_uuid": "B6v414fJ9H",
+        "uuid": "3Nx9550oI3",
+        "success": "true",
+        "serial": 708,
+        "cur_price": "63.0-63.0"
+    },
+
+    "getDetailData": {
+        "success": "true",
+        "msg": "",
+        "url": "http://meizhuangyouxuan.com/stable/detail/3Nx9550oI3.html"
+    },
+
+    "getCommentListData": [
+        {
+            "time": "h**9",
+            "type": "1",
+            "comment": ""
+        },
+        {
+            "time": "丫**玉",
+            "type": "1",
+            "comment": ""
+        },
+        {
+            "time": "日**年",
+            "type": "1",
+            "comment": "当当当 终于到了 很香(ˇ?ˇ） ~ 用起来也很润希西 赞一个 都下班了还在呢"
+        },
+        {
+            "time": "l**x",
+            "type": "1",
+            "comment": "朋友说超好的，就是刚好碰上国庆，5天才到。5星！！！"
+        },
+        {
+            "time": "x**6",
+            "type": "1",
+            "comment": "还可以"
+        },
+        {
+            "time": "x**6",
+            "type": "1",
+            "comment": ""
+        },
+        {
+            "time": "s**s",
+            "type": "1",
+            "comment": ""
+        },
+        {
+            "time": "w**1",
+            "type": "1",
+            "comment": ""
+        },
+        {
+            "time": "自**u",
+            "type": "1",
+            "comment": "颜色很好看赞一下客服凯茜"
+        },
+        {
+            "time": "雷**澜",
+            "type": "1",
+            "comment": ""
+        }
+    ]
+}
